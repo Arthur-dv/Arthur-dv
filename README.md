@@ -13,7 +13,7 @@
    
 <div align="center" >
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurviana84&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-dv&show_icons=true&theme=dark)
 
 </div>
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
