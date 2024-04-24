@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Cursando ADS
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
+- 😄 apaixonado por tecnológia
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurviana84&show_icons=true&theme=radical)
 
