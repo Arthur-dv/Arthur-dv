@@ -1,18 +1,24 @@
-## Olá! Eu sou o Arthur Viana
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Arthur!;" />
+</h1>
 
-- 👨‍🎓 Cursando ADS
-- 🌱 Estudando Python
-- 😄 apaixonado por tecnológia
+<div align="center" >
+ - 🔭 Cursando Analise e Desenvolvimento de Distemas...
+  <br>
+  - 🌱  Atualmente estou estudando python,react...
+  
+</div>
+
+   <h2 align="center" >⚡Stats⚡</h2>
+   
+<div align="center" >
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurviana84&show_icons=true&theme=radical)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</div>
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=react,html,js,css,php,py,vscode,github,git,t" />
 </div>
 
  ##
@@ -31,3 +37,6 @@
 </picture>
  </div>
 </div>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
