@@ -5,7 +5,6 @@
 <div align="center" >
  - 🔭 Cursando Analise e Desenvolvimento de Sistemas...
   <br>
-  - 🌱  Atualmente estou estudando python...
   
 </div>
 
