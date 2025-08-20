@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center" >
- 🍕 Entre bugs, códigos e episódios de Futurama... 
+ 🍕 Entre bugs, códigos... 
   <br>
   Sigo firme no 3º período de ADS!
   
