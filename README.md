@@ -5,7 +5,7 @@
 <div align="center" >
  🍕 Entre bugs, códigos... 
   <br>
-  Sigo firme no 4º período de ADS!
+  Sigo firme no ultimo período de ADS!
   
 </div>
 
