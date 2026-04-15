@@ -3,13 +3,10 @@
 </h1>
 
 <div align="center" >
- 🍕 Entre bugs, códigos... 
   <br>
   Sigo firme no ultimo período de ADS!
   
 </div>
-
-   <h2 align="center" >⚙️ Códigos, caos e carisma robótico.</h2>
    
 <div align="center">
   <img src="https://pngimg.com/uploads/futurama/futurama_PNG6.png" alt="Bender" height="200"/>
