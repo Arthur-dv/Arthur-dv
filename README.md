@@ -12,9 +12,9 @@
 
 #   Sobre mim
 
-- 🎓 Sou graduado em Análise e desenvolvimento de sistemas (5/6)
+- 🎓 Sou graduado em Análise e desenvolvimento de sistemas
 - 💻 Experiencia em CRM e APPs de Telemetria
-- 🧩 Interesse em interfaces digitais e história da computação
+- 🧩 Interesse em interfaces digitais e Desenvolvimento Web
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Arthur-dv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
